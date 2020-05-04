@@ -59,5 +59,4 @@ public class Task2 {
 
                 Task2.multiplication(124,87);
                 Task2.multiplication(1528,3);
-
                 Task2.calculation();}}
